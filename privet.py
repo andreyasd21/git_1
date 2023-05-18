@@ -1,1 +1,2 @@
-privet
+#privet
+print('hello Git')
